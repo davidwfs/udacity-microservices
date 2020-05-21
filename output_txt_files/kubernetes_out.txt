@@ -1,1 +1,6 @@
-<paste log output from Kubernetes-mediated prediction, here>
+deployment.apps/udacity-microservices created
+NAME                                     READY   STATUS    RESTARTS   AGE
+udacity-microservices-6664f5ff6c-6qtkp   0/1     Pending   0          0s
+
+NAME                    TYPE           CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE
+udacity-microservices   LoadBalancer   10.109.11.99   <pending>     80:32198/TCP   101s

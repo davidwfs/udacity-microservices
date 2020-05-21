@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/gh/davidwfs/udacity-microservices.svg?style=svg)](https://circleci.com/gh/davidwfs/udacity-microservices)
 
 ## Project Overview
 
